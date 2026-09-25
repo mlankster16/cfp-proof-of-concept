@@ -1,7 +1,7 @@
 /* Duke Coursera Specialization CFP: proof of concept behaviour.
    1. Placeholder links (a[data-tbd]) are marked and don't navigate.
    2. "On this page" menu highlights the current section.
-   3. Fit check: nine questions, one at a time, then a summary.
+   3. Fit check: eight questions, one at a time, then a summary.
    No dependencies. Nothing is stored or sent anywhere. */
 (function () {
   // 1. Placeholder links
@@ -84,12 +84,6 @@
         { label: 'Yes', level: 'ready', note: 'Your availability fits the development window.' },
         { label: 'Yes, but we’d need to start later', level: 'address', note: 'The form lets you describe a later start. This call is also identifying a shortlist of Specializations for development in 2028.' },
         { label: 'No, not in that window', level: 'major', note: 'Availability is strongly considered in review. If your schedule changes, or you’d like to be considered for a later cycle, contact us.' }
-      ] },
-    { id: 'team', q: 'How will the work be shared across the three Courses?', help: 'We recommend one faculty lead per Course. Teams also need a way to make decisions that affect the whole Specialization.',
-      options: [
-        { label: 'A different faculty lead for each Course, and we’ve talked about how we’ll work together', level: 'ready', note: 'Your team has a collaboration structure in place, with one lead per Course.' },
-        { label: 'I’ll lead all three Courses myself', level: 'address', note: 'That’s possible, but plan on about 180 to 270 hours across the development window, or roughly 3.5 to 7 hours a week. Consider whether a collaborator could lead one or more Courses.' },
-        { label: 'We’re a team, but haven’t decided who leads which Course', level: 'address', note: 'Before you submit, name a lead for each Course and talk through how you’ll make decisions across the Specialization. The form asks who will develop each Course.' }
       ] }
   ];
 

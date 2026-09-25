@@ -65,7 +65,7 @@ Current open items:
 
 ## Fit check (`#fit-check` on index.html)
 
-Nine questions shown one at a time, then a summary. Answers stay in memory only; nothing is stored or sent. Each answer carries one level, based on the CFP review criteria:
+Eight questions shown one at a time, then a summary. Answers stay in memory only; nothing is stored or sent. Each answer carries one level, based on the CFP review criteria:
 
 - `ready`: meets the criterion
 - `address`: worth working on before applying
@@ -83,7 +83,6 @@ Overall result: any `major` gives "This call may not be the right fit right now"
 | Outside approvals or coordination | No ready; Yes address; Not sure address | Feasibility |
 | Who drafts the content | Faculty draft with CTL feedback ready; Student or staff helps draft address; CTL drafts from source material major | Instructor readiness |
 | 9 to 12 months from mid-Spring 2027 | Yes ready; Later start address (mentions 2028 shortlist); No major | Availability |
-| How the work is shared across Courses | Separate leads with a plan ready; Solo across all three address; Team, leads undecided address | Feasibility |
 
 Talking with your dean is a standing line on the results screen (not a question), since it's expected of every applicant rather than something to assess fit on.
 
