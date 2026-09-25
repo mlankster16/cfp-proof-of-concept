@@ -56,7 +56,6 @@ Current open items:
 | Example Duke Coursera Specialization link | What a Specialization includes |
 | Box or Google folder for materials | How to apply, form preview Section D |
 | Estimated time to complete the form | Apply banner |
-| Coursera Development Pathways URL | Footer (all pages) |
 | Program or fellowship name, if used | Not yet on the site; may affect title and hero |
 
 ## Proposed form question
