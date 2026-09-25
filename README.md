@@ -65,7 +65,7 @@ Current open items:
 
 ## Fit check (`#fit-check` on index.html)
 
-Six questions shown one at a time, then a summary. Answers stay in memory only; nothing is stored or sent. Each answer carries one level, based on the CFP review criteria:
+Nine questions shown one at a time, then a summary. Answers stay in memory only; nothing is stored or sent. Each answer carries one level, based on the CFP review criteria:
 
 - `ready`: meets the criterion
 - `address`: worth working on before applying
@@ -76,11 +76,16 @@ Overall result: any `major` gives "This call may not be the right fit right now"
 | Question | Options and levels | Criterion |
 |---|---|---|
 | Priority track | P1 / P2 / P3 ready; Not sure address | Topic alignment (Required) |
-| Three related Courses | Yes ready; Maybe address; No major | Specialization structure (Required) |
+| Learner outcome framing | Do/produce framing ready; Topics-only address; Not sure address | Clear objectives and vision |
+| Three Courses of 2 to 8 hours each | Yes, can picture each Course ready; Not mapped yet address; Would take more than three address; Really a single Course major | Specialization structure (Required) |
 | Materials now | Taught-with learner materials ready (mentions shorter-timeline conversation); expertise materials ready; new idea major | Existing materials (Required) |
+| Learning activities | Standard Coursera formats ready; Custom tools/software address; Live sessions or instructor grading address | Feasibility |
+| Outside approvals or coordination | No ready; Yes address; Not sure address | Feasibility |
+| Who drafts the content | Faculty draft with CTL feedback ready; Student or staff helps draft address; CTL drafts from source material major | Instructor readiness |
 | 9 to 12 months from mid-Spring 2027 | Yes ready; Later start address (mentions 2028 shortlist); No major | Availability |
-| Outside approvals or complex production | No ready; Yes address; Not sure address | Feasibility |
-| Talked with dean | Yes ready; Not yet address | Dean acceptance of award |
+| How the work is shared across Courses | Separate leads with a plan ready; Solo across all three address; Team, leads undecided address | Feasibility |
+
+Talking with your dean is a standing line on the results screen (not a question), since it's expected of every applicant rather than something to assess fit on.
 
 All question text, options, and result notes live in the `QUESTIONS` array in `site.js`. The fit check is a planning aid and says so in its intro and result. It shouldn't be worded as predicting selection.
 
