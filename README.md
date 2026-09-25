@@ -48,6 +48,7 @@ Current open items:
 | Proposal form link | Nav Apply button, hero, how to apply, fit check result, form preview |
 | Contact email | Footer (all pages) |
 | Eligibility (faculty types) | Hero at a glance |
+| Faculty time estimate (60 to 90 hours per Course) | Hero at a glance, what you'd commit to |
 | Expected launch range | What you'd commit to |
 | How incentives are divided among multiple instructors | Incentives and ownership |
 | IP language (pending Provost confirmation) and Appendix M link | Incentives and ownership |
