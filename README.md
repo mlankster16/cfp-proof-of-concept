@@ -48,7 +48,6 @@ Current open items:
 | Proposal form link | Nav Apply button, hero, how to apply, fit check result, form preview |
 | Contact email | Footer (all pages) |
 | Eligibility (faculty types) | Hero at a glance |
-| Faculty time estimate (60 to 90 hours per Course) | Hero at a glance, what you'd commit to |
 | Expected launch range | What you'd commit to |
 | How incentives are divided among multiple instructors | Incentives and ownership |
 | IP language (pending Provost confirmation) and Appendix M link | Incentives and ownership |
@@ -81,7 +80,7 @@ Overall result: any `major` gives "This call may not be the right fit right now"
 | Learning activities | Standard Coursera formats ready; Custom tools/software address; Live sessions or instructor grading address | Feasibility |
 | Outside approvals or coordination | No ready; Yes address; Not sure address | Feasibility |
 | Who drafts the content | Faculty draft with CTL feedback ready; Student or staff helps draft address; CTL drafts from source material major | Instructor readiness |
-| 9 to 12 months from mid-Spring 2027 | Yes ready; Later start address (mentions 2028 shortlist); No major | Availability |
+| 9 to 12 months from mid-March 2027 | Yes ready; Later start address (mentions 2028 shortlist); No major | Availability |
 
 Talking with your dean is a standing line on the results screen (not a question), since it's expected of every applicant rather than something to assess fit on.
 

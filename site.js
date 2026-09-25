@@ -79,7 +79,7 @@
         { label: 'A graduate student, postdoc, or staff member would help me draft', level: 'address', note: 'Support from others is welcome, but you remain the author. Plan time to guide their drafts, review everything for accuracy, and make final content decisions.' },
         { label: 'I’d share my source material and hope CTL could draft from it', level: 'major', note: 'In this call, CTL helps shape, review, and produce your content, and faculty draft it. Projects that need CTL to write the content usually need a different arrangement and a longer timeline. Contact us to talk it through.', link: ['#commitment', 'Review how you and CTL share the work'] }
       ] },
-    { id: 'time', q: 'Can you (and any collaborators) commit 9 to 12 months beginning mid-Spring 2027?', help: 'Plan on about 60 to 90 hours per Course, or roughly 1.5 to 2.5 hours a week for each Course lead.',
+    { id: 'time', q: 'Can you (and any collaborators) commit 9 to 12 months beginning mid-March 2027?', help: 'Plan on about 82 to 212 hours per Course, or roughly 2 to 5 hours a week for each Course lead.',
       options: [
         { label: 'Yes', level: 'ready', note: 'Your availability fits the development window.' },
         { label: 'Yes, but we’d need to start later', level: 'address', note: 'The form lets you describe a later start. This call is also identifying a shortlist of Specializations for development in 2028.' },
