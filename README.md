@@ -49,7 +49,6 @@ Current open items:
 | Contact email | Footer (all pages) |
 | Eligibility (faculty types) | Hero at a glance |
 | Expected launch range | What you'd commit to |
-| CTL statement on AI use in development | What you'd commit to |
 | How incentives are divided among multiple instructors | Incentives and ownership |
 | IP language (pending Provost confirmation) and Appendix M link | Incentives and ownership |
 | AI at Duke report link | About this call |
@@ -57,7 +56,6 @@ Current open items:
 | Box or Google folder for materials | How to apply, form preview Section D |
 | Estimated time to complete the form | Apply banner |
 | Coursera Development Pathways URL | Footer (all pages) |
-| High-demand topics: source, 5 categories, 25 topics | high-demand-topics.html |
 | Program or fellowship name, if used | Not yet on the site; may affect title and hero |
 
 ## Proposed form question
